@@ -1,5 +1,5 @@
 # diving-with-seals
-anonymized codebase and web application submmitted in conjuction with paper submission. 
+anonymized codebase and web application submitted in conjuction with paper submission. 
 
 ## Controls
 ### 2D devices
